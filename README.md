@@ -5,3 +5,6 @@ Segundo projeto da cadeira de Análise e Síntese de Algoritmos de LEIC-A. (Ano 
 ## file.cpp.
 - Compilação: g++ -std=c++11 -O3 -Wall file.cpp -lm.
 - Execução: ./a.out < testfile (para testar cada um dos ficheiros de teste).
+
+
+Nota: 19.5
